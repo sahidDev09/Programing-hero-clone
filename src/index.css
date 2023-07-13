@@ -5,3 +5,10 @@
 body{
   background-color: #0F0826;
 }
+
+#textstockef{
+
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 2px;
+
+}
