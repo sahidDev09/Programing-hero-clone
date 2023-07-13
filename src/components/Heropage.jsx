@@ -27,8 +27,8 @@ const Heropage = () => {
             </button>
           </div>
 
-          <div id="mainpageimg" className=" ml-8">
-            <img
+          <div id="mainpageimg">
+            <img className=" mx-auto"
               src="https://www.programming-hero.com/img/header-banner-phone.png"
               alt=""
             />
